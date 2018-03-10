@@ -4,7 +4,7 @@ Build a Voice Recognition Website using IBM Watson!
 ## What is the Challenge?
 
 ### Prizes:
-The top 3 winners selected by . our sponsor Creative Tim and I, will win the Big Bundle which is an unbelievable tool for any developer and freelancer. This prize is worth over *$1560*: https://www.creative-tim.com/product/buy/bundle/big-bundle
+The top 3 winners selected by . our sponsor Creative Tim and I, will win the Big Bundle which is an unbelievable tool for any developer and freelancer. Prizes are each worth over **$1560**: https://www.creative-tim.com/product/buy/bundle/big-bundle
 
 ### The Rules Are:
 
