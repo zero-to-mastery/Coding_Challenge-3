@@ -1,6 +1,17 @@
 # Coding_Challenge-3
 Build a Voice Recognition Website using IBM Watson!
 
+## Coding Challenge Submissions
+The wonderful submissions from some of the Zero-to-Mastery students on the third coding challenge. We have included their slack handle names if you want to say hi to them on our slack community:
+
+@Vicky David Coding Challenge#3 Submission: https://vickydavid.github.io/speecho/
+
+@Yvonne challenge#3 submission https://github.com/YvonneD/Meeting-Minutes 
+
+@dyllper Coding Challenge #3 Submission: https://dyllper.github.io/
+
+@Avdo Coding Challenge #3 Submission: https://avdoseferovic.github.io/speechbot/
+
 ## What is the Challenge?
 
 ### Prizes:
