@@ -1,5 +1,5 @@
 # Coding_Challenge-3
-Build a Voice Recognition Website using IBM Watson!
+Build a Speech Recognition Website using IBM Watson!
 
 ## Coding Challenge Submissions
 The wonderful submissions from some of the Zero-to-Mastery students on the third coding challenge. We have included their slack handle names if you want to say hi to them on our slack community:
