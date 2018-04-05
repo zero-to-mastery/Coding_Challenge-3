@@ -4,13 +4,46 @@ Build a Voice Recognition Website using IBM Watson!
 ## Coding Challenge Submissions
 The wonderful submissions from some of the Zero-to-Mastery students on the third coding challenge. We have included their slack handle names if you want to say hi to them on our slack community:
 
+@Louise Coding Challenge#3 Submission: https://louisevdb84.github.io/journal-application
+
+@dyllper Coding Challenge #3 Submission: https://dyllper.github.io/
+
+@Clayton Coding Challenge#3 Submission: https://claytonweller.github.io/Voice/
+
+@Jacinto Wong Coding Challenge#3 Submission: https://morse-code-generator.herokuapp.com/
+
+@JAMES KIM Coding Challenge#3 Submission: https://glacial-cliffs-95893.herokuapp.com/
+
+@Ismael Vazquez Jr Coding Challenge#3 Submission: https://ismaelvazquez.github.io/argslator/
+
+@Piervincenzo Coding Challenge#3 Submission: https://pvparisi.github.io/speak-to-order/
+
 @Vicky David Coding Challenge#3 Submission: https://vickydavid.github.io/speecho/
 
 @Yvonne challenge#3 submission https://github.com/YvonneD/Meeting-Minutes 
 
-@dyllper Coding Challenge #3 Submission: https://dyllper.github.io/
-
 @Avdo Coding Challenge #3 Submission: https://avdoseferovic.github.io/speechbot/
+
+@Puja Coding Challenge#3 Submission: https://pgakk.github.io/speechobot/
+
+@xenof Coding Challenge#3 Submission: https://ransdev.github.io/tic_tac_toe/
+
+@JustinTime42 Coding Challenge#3 Submission: https://slarti-42.github.io/tereks-starship-compendium/
+
+@Mahesh_Kankipati Coding Challenge#3 Submission: https://protected-stream-39850.herokuapp.com/
+
+@JBabs Coding Challenge#3 Submission: https://jackbabs.github.io/SaySee/
+
+@Matt Coding Challenge#3 Submission: https://github.com/MattCSmith/creatin-tim
+
+@Sdeagh Coding Challenge#3 Submission: https://sdeagh.github.io/speechify/
+
+@fayokeAdeyina Coding Challenge#3 Submission: https://oluwafayokemi.github.io/speechToText/
+
+@Vaibhav Arora Coding Challenge #3 Submission: https://voice-assistant-backend.herokuapp.com/
+
+@Jimmy Coding Challenge#3 Submission: https://jimmykzm94voice.herokuapp.com/
+
 
 ## What is the Challenge?
 
